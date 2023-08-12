@@ -103,3 +103,11 @@ header nav a:hover::after {
 .main-banner-bg {
     z-index: -500;
 }
+/* ===== DISCOUNT-BANNER ===== */
+.discount-banner {
+    height: 43rem;
+    background-image: url('../image/discount-banner.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
