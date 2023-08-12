@@ -143,3 +143,11 @@ header nav a:hover::after {
 .shop-right img {
     height: 15.5rem;
 }
+/* ===== OFF50 ===== */
+.off50 {
+    height: 43rem;
+    background-image: url('../image/off50-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
