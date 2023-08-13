@@ -155,3 +155,10 @@ header nav a:hover::after {
 .drop {
     background-color: var(--dark);
 }
+/* ===== EXPERIENCE ===== */
+.experience .title {
+    font-size: 16px;
+}
+.experience .sub-title {
+    font-size: 14px;
+}
