@@ -162,3 +162,36 @@ header nav a:hover::after {
 .experience .sub-title {
     font-size: 14px;
 }
+/* ===== SIGNUP ===== */
+.signup {
+    background-color: #f2f2f2;
+}
+.signup .row .title {
+    line-height: 1.6;
+}
+.signup .desc {
+    font-size: 13px;
+}
+.signup input {
+    font-size: 18px;
+    height: 2.475rem;
+    width: 100%;
+    border: 2px solid black;
+}
+.signup .signup-btn {
+    background-color: var(--dark);
+    color: var(--white);
+    font-size: 0.90rem;
+    font-weight: 500;
+    padding: 0.563rem 1.5rem;
+    font-family: var(--font-oswald);
+    text-decoration: none;
+    display: inline-block;
+}
+.signup a {
+    text-decoration: none;
+    font-weight: 500;
+}
+.signup a:hover {
+    text-decoration: underline;
+}
