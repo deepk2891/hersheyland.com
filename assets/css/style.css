@@ -195,3 +195,7 @@ header nav a:hover::after {
 .signup a:hover {
     text-decoration: underline;
 }
+/* ===== TRANSACTION ===== */
+.transaction {
+    background-color: #e2e2e5;
+}
